@@ -8,6 +8,6 @@ public with sharing class myclass {
 	}
 
 	public String returnHi() {
-		return 'Hey';
+		return 'Test!';
 	}
 }
